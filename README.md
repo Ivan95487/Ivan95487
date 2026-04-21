@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ivan 👋
 
-<!--
-**Ivan95487/Ivan95487** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me:
+- 🎯 Currently focusing on **Software Quality Assurance** and **Test Automation**.
+- 🐍 Learning **Python** for automation scripts and tools.
+- 📊 Proficient in **SQL** (complex queries, joins, data analysis).
+- 🛡️ Interested in high-load systems and financial technologies.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack:
+- **Testing:** Manual Testing, Test Design, Bug Reporting.
+- **Languages:** Python (Basic/Intermediate).
+- **Databases:** PostgreSQL, MySQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Goals:
+- [ ] Master Selenium/Pytest for Web Automation.
+- [ ] Learn API Testing (Postman/Requests).
+- [ ] Build a solid portfolio of automation tools.
+
+
